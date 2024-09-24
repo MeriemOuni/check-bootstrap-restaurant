@@ -1,0 +1,57 @@
+.menu {
+	margin-left: 75%;
+}
+
+.hero {
+	margin: 2% 2%;
+}
+
+.text-image {
+	margin: 58% 40%;
+}
+
+.text-image {
+	text-align: center;
+}
+
+.menu-list {
+	margin: 2% 10%;
+}
+
+.card-countainer {
+	height: 300px;
+}
+
+.img-card {
+	height: 400px;
+}
+
+.menu-list h2 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 4rem;
+}
+
+.about {
+	width: 80%;
+	margin: 2% 10%;
+}
+
+.about h2 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 4rem;
+}
+
+.contact {
+	width: 80%;
+	background-color: rgb(130, 167, 167);
+	padding: 3%;
+	margin: 2% 10%;
+}
+
+h2 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 4rem;
+}
